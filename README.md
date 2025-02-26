@@ -23,7 +23,7 @@ This API implements Conway's Game of Life with the following features:
 ### Project Structure
 ```
 /
- GameOfLife/
+ NearsureChallenge/
    ├── Controllers/
    │   └── GameController.cs          # API endpoints
    ├── Models/
@@ -94,7 +94,7 @@ Get final stable state
 
 1. Navigate to the project directory:
 ```bash
-cd /GameOfLife
+cd /NearsureChallenge
 ```
 
 2. Build the project:
@@ -148,7 +148,7 @@ Tests the Board model functionality:
 ## Using the API with Swagger
 
 1. Access Swagger UI:
-   - Open your browser and navigate to: https://localhost:5001/swagger
+   - Open your browser and navigate to: http://localhost:5000/swagger
 
 2. Available Endpoints:
 
