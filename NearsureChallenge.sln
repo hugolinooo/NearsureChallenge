@@ -1,0 +1,25 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EndGlobal	EndGlobalSection		SolutionGuid = {B1D1DB93-7C0B-42B4-AE95-BBF5C4842E6D}	GlobalSection(ExtensibilityGlobals) = postSolution	EndGlobalSection		HideSolutionNode = FALSE	GlobalSection(SolutionProperties) = preSolution	EndGlobalSection		{AF3E52B0-B251-723A-6D44-B9EB4D8FF8CC}.Release|Any CPU.Build.0 = Release|Any CPU		{AF3E52B0-B251-723A-6D44-B9EB4D8FF8CC}.Release|Any CPU.ActiveCfg = Release|Any CPU		{AF3E52B0-B251-723A-6D44-B9EB4D8FF8CC}.Debug|Any CPU.Build.0 = Debug|Any CPU		{AF3E52B0-B251-723A-6D44-B9EB4D8FF8CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU	GlobalSection(ProjectConfigurationPlatforms) = postSolution	EndGlobalSection		Release|Any CPU = Release|Any CPU		Debug|Any CPU = Debug|Any CPU	GlobalSection(SolutionConfigurationPlatforms) = preSolutionGlobalEndProjectProject("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearsureChallenge", "NearsureChallenge.csproj", "{AF3E52B0-B251-723A-6D44-B9EB4D8FF8CC}"MinimumVisualStudioVersion = 10.0.40219.1VisualStudioVersion = 17.5.2.0# Visual Studio Version 17Microsoft Visual Studio Solution File, Format Version 12.00
